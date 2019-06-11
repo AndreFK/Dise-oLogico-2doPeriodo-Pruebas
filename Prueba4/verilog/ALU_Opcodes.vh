@@ -1,0 +1,12 @@
+`define ADD 4'd0
+`define SUB 4'd1
+`define MUL 4'd2
+`define DIV 4'd3
+`define AND 4'd4
+`define OR  4'd5
+`define XOR 4'd6
+`define NOT 4'd7
+`define SHL 4'd8
+`define SHR 4'd9
+`define SLT 4'd10
+`define SLTU 4'd11
